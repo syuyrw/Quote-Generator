@@ -85,4 +85,4 @@ const interval = setInterval(function() {
         .catch((error) => {
             console.error("Error fetching quote:", error);
         });
-}, 10000);
+}, 20000);
